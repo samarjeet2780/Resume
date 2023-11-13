@@ -1,0 +1,50 @@
+  				                                                            Samarjeet Singh
+smrsingh2003@gmail.com        				   Ph: 204-952-3805              https://github.com/samarjeet2780        			   https://www.linkedin.com/in/samarjeet-singh-067545234/
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Education
+
+The University of Winnipeg 						                   	 Expected: May 2025
+B.Sc. Honors in Applied Computer Science                 Coop Student                              GPA: 4.1/4.5
+Relevant Courses:   Web Design and Development, Object Oriented Programming (Java), Data Structures and Algorithms (Java), Database Systems, Computer Architecture, Software Requirements and Analysis, Linear Algebra, Statistics.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Experience
+
+TECHNICAL SUPPORT SPECIALIST                 The University of Winnipeg 		  Aug. 2023 – Present
+
+• Collaborated with other university departments to streamline support processes, resulting in a 30% reduction in response times and enhanced user experience.
+
+TEACHING ASSISTANT AND MARKER               The University of Winnipeg 		  Aug. 2023 – Present
+
+Conducted programming labs, resulting in a 15% increase in students’ comprehension of the subject matter, as test scores improved by 18%.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Projects
+
+Snake and Ladder Game				GitHub Link
+
+Chess Game						GitHub Link
+
+Spell Bee 						GitHub Link
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Volunteering and Hackathons
+
+Volunteer - Harvest Manitoba 
+• Actively contributing to the establishment and operation of a vital community resource aimed at assisting individuals
+and families facing financial challenges exacerbated by rising food prices.
+
+Hackathon - University of Winnipeg (Runners up) 				             
+• As part of a dynamic six-member team with diverse skill sets, I played a pivotal role in our Hackathon project, developing a non-redundant database for our innovative mobile app prototype. Our application displays global sports news, scores, and upcoming events.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Skills
+
+Languages:  Java, C++, SQL, HTML, CSS, JavaScript
+
+Technologies & Tools:  React, Pg-Admin, MS-Access, Git and GitHub, Linux, VS Code
+
+Concepts: Database Development, OOPs Programming, Data Structures Algorithm, Front-end Development, Agile 	      methodology, System/Business Analysis, web protocols (RTSP/RTMP)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Honours and Awards
+
+1.	Golden Key Recognition: Awarded to the top 15% in Computer Science at the University of Winnipeg
+2.	Dean’s Honour List- Student of Highest Distinction: Awarded to students with a GPA of 4.0 and above.
+3.	Academic Proficiency Award: Awarded to students with great academic performance.
+4.	International Student Services Award: Awarded to students who provide their service to the university.
