@@ -11,19 +11,19 @@ Experience
 
 TECHNICAL SUPPORT SPECIALIST                 The University of Winnipeg 		  Aug. 2023 – Present
 
-• Collaborated with other university departments to streamline support processes, resulting in a 30% reduction in response times and enhanced user experience.
+* Collaborated with other university departments to streamline support processes, resulting in a 30% reduction in response times and enhanced user experience.
 
 TEACHING ASSISTANT AND MARKER               The University of Winnipeg 		  Aug. 2023 – Present
 
-Conducted programming labs, resulting in a 15% increase in students’ comprehension of the subject matter, as test scores improved by 18%.
+* Conducted programming labs, resulting in a 15% increase in students’ comprehension of the subject matter, as test scores improved by 18%.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Projects
 
-Snake and Ladder Game				GitHub Link
+1. Snake and Ladder Game				
 
-Chess Game						GitHub Link
+2. Chess Game						    
 
-Spell Bee 						GitHub Link
+3. Spell Bee 						      
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Volunteering and Hackathons
 
@@ -40,7 +40,7 @@ Languages:  Java, C++, SQL, HTML, CSS, JavaScript
 
 Technologies & Tools:  React, Pg-Admin, MS-Access, Git and GitHub, Linux, VS Code
 
-Concepts: Database Development, OOPs Programming, Data Structures Algorithm, Front-end Development, Agile 	      methodology, System/Business Analysis, web protocols (RTSP/RTMP)
+Concepts: Database Development, OOPs Programming, Data Structures Algorithm, Front-end Development, Agile methodology, System/Business Analysis, web protocols (RTSP/RTMP)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Honours and Awards
 
