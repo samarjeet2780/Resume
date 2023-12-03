@@ -1,6 +1,14 @@
-       		                                       Samarjeet Singh
+       		                            Samarjeet Singh
 smrsingh2003@gmail.com          Ph: 204-952-3805           Samarjeet2780 | GitHub           Samarjeet Singh | LinkedIn
-   
+
+Profile
+•	I am an energetic and intelligent professional who is passionate about technology. I am a dedicated person who wants to modernize government technology to serve the public.
+•	I enjoy collaborating with clients to improve their experience and solve business problems as I have been doing that in my current role as a tech support specialist.
+•	I am proficient with relational databases so I can create and modify SQL queries to efficiently retrieve data.
+•	I have excellent written and verbal communication and interpersonal skills. Along with that, I have a charismatic personality with the ability to talk to anyone and I am comfortable working in an ever-changing,           fast-paced environment.
+•	 I am an enthusiastic person with the ability to work independently. I am willing to learn the skills it takes to be a great fit for the role.
+
+
 Education
 The University of Winnipeg 						               	   Expected: May 2025
 B.Sc. in Applied Computer Science                 Coop Student                 	          	     GPA: 4.1/4.5
@@ -24,7 +32,6 @@ Spell Bee 						GitHub Link
 •	Developed an educational and interactive Spell Bee Game using HTML, CSS, and JavaScript. The game randomly selects a word, pronounces it, and prompts users to correctly spell the word, making it an engaging tool for English language learners, especially children.
 •	Integrated audio pronunciation of selected words, enhancing the learning experience by incorporating auditory cues for correct pronunciation.
 •	Employed vibrant and child-friendly HTML and CSS elements to create an engaging and visually stimulating game interface suitable for young learners.
-
 
 
 Work Experience
