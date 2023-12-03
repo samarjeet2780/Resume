@@ -10,10 +10,10 @@ Profile
 
 
 Education
-The University of Winnipeg 						               	   Expected: May 2025
-B.Sc. in Applied Computer Science                 Coop Student                 	          	     GPA: 4.1/4.5
+The University of Winnipeg 						                                    	   Expected: May 2025
+B.Sc. in Applied Computer Science                 Coop Student                 	          	            GPA: 4.1/4.5
 
-Relevant Courses:   Web Design and Development, Object Oriented Programming (Java), Data Structures and 		           	       Algorithms (Java), Database Systems, Computer Architecture, Software Requirements and 			       Analysis, Linear Algebra, Statistics.
+Relevant Courses:   Web Design and Development, Object Oriented Programming (Java), Data Structures and Algorithms (Java), Database Systems, Computer Architecture, Software Requirements and Analysis, Linear Algebra, Statistics.
 
 Honours and Awards: 
 1.	Golden Key Recognition: Awarded to the top students in Computer Science at the University of Winnipeg
